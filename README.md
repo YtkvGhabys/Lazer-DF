@@ -1,4 +1,4 @@
-# Protótipo UI/UX — Solução Mobile para Descoberta de Lazer no Distrito Federal
+# 📱Protótipo UI/UX — Solução Mobile para Descoberta de Lazer no Distrito Federal
 
 ## Sobre o Projeto
 
@@ -21,23 +21,19 @@ Seu principal diferencial é oferecer recomendações personalizadas de acordo c
 O protótipo contempla funcionalidades como:
 
 - Tela inicial com recomendações personalizadas;
-- Busca integrada a um mapa interativo;
+- Busca integrada com Google Maps;
 - Filtros por categoria, localização e preferências;
-- Área dedicada a experiências temporárias e exclusivas;
 - Informações detalhadas sobre cada atividade;
 - Galeria de imagens;
 - Faixa de preço;
 - Avaliações e comentários de usuários;
 - Selos de diferenciais (acessibilidade, ambiente familiar, cardápio, entre outros);
 - Sistema de favoritos;
-- Cadastro opcional para salvar preferências e histórico de atividades.
+- Cadastro para salvar preferências e compartilhar feedbacks.
 
 ---
 
 ## Protótipo
 
-O projeto foi desenvolvido no **Figma** como um protótipo de alta fidelidade para uma **aplicação mobile**, priorizando princípios de UX/UI, acessibilidade e usabilidade.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Wlq250CRKXb3AWyccY3RAc/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
-
-Este repositório tem como objetivo documentar o processo de pesquisa, definição de requisitos, arquitetura da informação e desenvolvimento da interface antes da implementação da aplicação.
+O projeto foi desenvolvido no **Figma** como um protótipo de alta fidelidade para uma **aplicação mobile**, priorizando princípios de UX/UI, acessibilidade e usabilidade.<br>
+<a href="https://www.figma.com/design/Wlq250CRKXb3AWyccY3RAc/Untitled?node-id=0-1&t=C5IsJAXVBB4qWKOB-1">Link do protótipo do Figma</a>
